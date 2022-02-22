@@ -1,6 +1,6 @@
 # istegelsin
 
-![alt text](https://i.hizliresim.com/dzjb5fj.jpg)
+![Login Page](https://i.hizliresim.com/dzjb5fj.jpg)
 
 ## Getting Started
 
