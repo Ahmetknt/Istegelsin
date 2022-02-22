@@ -1,5 +1,5 @@
 # istegelsin
-![Login](https://i.hizliresim.com/8c8r18y.jpg),![Register](https://i.hizliresim.com/99hzq9r.jpg)
+![Login](https://i.hizliresim.com/8c8r18y.jpg),![Register](https://i.hizliresim.com/iu617e2.jpg)
 ![Main](https://i.hizliresim.com/baf6hdp.jpg),![Temel Gida](https://i.hizliresim.com/pdaospl.jpg)
 ![Detay](https://i.hizliresim.com/9ugq3aj.jpg),![Sepet](https://i.hizliresim.com/9hv8iyo.jpg)
 
