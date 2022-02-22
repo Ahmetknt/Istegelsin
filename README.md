@@ -4,7 +4,7 @@
 
 
 ![Register Page](https://i.hizliresim.com/c1m2lij.jpg)
-![Main Page](https://www.hizliresim.com/99hzq9r)
+![Main Page](https://www.hizliresim.com/99hzq9r.jpg)
 ![Temel Page](https://i.hizliresim.com/88fpe82.jpg)
 ![Temel Page](https://i.hizliresim.com/7t89koy.jpg)
 ![Sepet Page](https://i.hizliresim.com/b6g8d8o.jpg)
