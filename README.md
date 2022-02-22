@@ -1,6 +1,6 @@
 # istegelsin
 
-![alt text](https://i.hizliresim.com/dzjb5fj.jpg)
+![alt text](https://i.hizliresim.com/dzjb5fj.jpg = 250x250)
 
 ## Getting Started
 
