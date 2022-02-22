@@ -4,6 +4,7 @@
 
 
 ![Register Page](https://i.hizliresim.com/c1m2lij.jpg)
+![Main Page](https://i.hizliresim.com/4yo40ab.jpg)
 
 ## Getting Started
 
