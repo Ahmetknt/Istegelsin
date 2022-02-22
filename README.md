@@ -6,6 +6,8 @@
 ![Register Page](https://i.hizliresim.com/c1m2lij.jpg)
 ![Main Page](https://i.hizliresim.com/4yo40ab.jpg)
 ![Temel Page](https://i.hizliresim.com/88fpe82.jpg)
+![Temel Page](https://i.hizliresim.com/7t89koy.jpg)
+![Sepet Page](https://i.hizliresim.com/b6g8d8o.jpg)
 
 ## Getting Started
 
