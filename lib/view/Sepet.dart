@@ -208,7 +208,7 @@ class _SepetState extends State<Sepet> {
                                       fontSize: 27),
                                 ),
                                 content: Text(
-                                  "Bizi tercih ettiğiniz için teşekkür ederiz.Siparişiniz belirttiğiniz ${Register.registerCustomerList[0].acikAdres}  açık adresinize 3 iş gününde teslim edilecektir.",
+                                  "Bizi tercih ettiğiniz için teşekkür ederiz.Siparişiniz belirttiğiniz ${Register.registerCustomerList[0].acikAdres}  açık adresinize en kısa sürede teslim edilecektir.",
                                   style: TextStyle(
                                       fontSize: 20, color: Colors.white),
                                 ),
@@ -233,7 +233,6 @@ class _SepetState extends State<Sepet> {
                                 ],
                               );
                             });
-                        //SepetList.sepet.removeRange(0, Count.count);
                       } else {
                         showDialog(
                             context: context,
